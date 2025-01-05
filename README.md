@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarun</h1>
 <h3 align="center">A passionate Full Stack Engineer from India</h3>
 
-- 🌱 I’m currently learning **NextJS | ThreeJS | DSA | DevOps**
+- 🌱 I’m currently learning **NextJS | ThreeJS | DSA | Web3 | DevOps** 
 
 - 👨‍💻 All of my projects are available at [https://tarun-portfolio-teal.vercel.app/](https://tarun-portfolio-teal.vercel.app/)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tarunstar2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lImVHyWMLyLOT6kcokt6zNQliCjhB_BF/view?usp=sharing](https://drive.google.com/file/d/1lImVHyWMLyLOT6kcokt6zNQliCjhB_BF/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BfwHU3nkbKn7fQg8_e-ACSPGqnaiTVLq/view?usp=sharing)
 
 - ⚡ Fun fact **Sippin' mild coffee to work hard**
 
